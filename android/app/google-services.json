@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845152586195",
+    "project_id": "otpgen-20ca1",
+    "storage_bucket": "otpgen-20ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845152586195:android:562c324567ce6b3e680726",
+        "android_client_info": {
+          "package_name": "com.example.simple_gemini_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMB2t7kOxuJ4HG_-Aw6YfWykS3kOTDEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
